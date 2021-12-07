@@ -1,0 +1,31 @@
+body {
+  background-color: wheat;
+}
+.div {
+  width: 400px;
+  margin: 1rem;
+  padding: 0.1rem;
+  border: 1px dotted black;
+}
+.btn {
+  height: 25px;
+  width: 25px;
+  background-color: white;
+  margin-right: 5px;
+}
+.showBtn {
+  color: rgb(221, 220, 224);
+  background-color: black;
+  /* margin-top: 2rem; */
+}
+.App {
+  width: 500px;
+  margin: auto;
+}
+.completedDiv h3 {
+  text-decoration: line-through black 4px solid;
+}
+.completedDiv div {
+  /* margin: 0.5rem; */
+  background-color: lightgreen;
+}
